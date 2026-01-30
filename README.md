@@ -3,6 +3,17 @@ Applied Learning Assignments
 📊 All assignments were documented in a well-structured Jupyter Notebook, reinforcing best practices in analytical storytelling, data preprocessing, feature engineering, and visualization. DeepTech_Ready Program Specialization.
 
 📌 Applied Learning Assignments & Project Highlights:
+Learning objectives
+
+At the end of the week, you should be able to;
+
+Perform advanced statistical analyses using techniques
+such as linear and logistic regression to model relationships.
+Apply hypothesis testing methods, including ANOVA andChi-square tests.
+Implement clustering algorithms such as K-means andhierarchical clustering for data segmentation.
+Utilize Principal Component Analysis (PCA) and otherdimensionality reduction techniques.
+Detect anomalies and identify outliers using statistical and machine learning approaches.
+Apply time-series analysis and forecasting techniques toanalyze temporal data and predict future trends and behaviors.
 
 # 🔹 Applied Learning Assignment 1 – HR Analytics (job_change_data.csv)
 
